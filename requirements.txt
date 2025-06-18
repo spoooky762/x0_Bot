@@ -1,0 +1,10 @@
+gradient_figlet
+telethon>=1.36.0
+requests
+pillow
+python-whois
+pytz
+asyncio
+fake-useragent
+aiohttp
+dotenv
