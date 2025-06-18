@@ -668,7 +668,7 @@ async def run_account(account_num):
                     caption = (
                         f"✦ Self-destructing photo saved\n"
                         f"➤ From: {username}\n"
-                        f"➤ Save time (MSK): {get_moscow_time()}\n"
+                        f"➤ Save time (MSK): {get_sydney_time()}\n"
                         f"➤ Message ID: {reply.id}\n"
                         "\n"
                         "**x0_Bot**"
@@ -966,7 +966,7 @@ async def run_account(account_num):
                     caption = (
                         f"✦ Exporting participants\n"
                         f"➤ Chat: {chat_link}\n"
-                        f"➤ Time (MSK): {get_moscow_time()}\n"
+                        f"➤ Time (MSK): {get_sydney_time()}\n"
                         "\n"
                         "**x0_Bot**"
                     )
